@@ -1,0 +1,17 @@
+.h1{
+    margin-left: 690px;
+}
+.div1{
+    width: auto;
+    height: 10px;
+    background: -webkit-linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%);
+    border-radius: 30px;
+}
+.hmw{
+    width: 1300px;
+    margin-left: 300px;
+}
+.name{
+    margin-top: 100px;
+    margin-left: 40%;
+}
